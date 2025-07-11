@@ -60,9 +60,11 @@
 - Статус босса и его здоровье
 
 Пример содержимого файла сохранения:
+```txt
 Player 1 404 332 180 180 1 0 0 0 33651 -6 0
 EnemyRun 158 588 180 180 205
 Boss 25 9979 454 236 314 1 1000
+```
 
 ---
 
@@ -70,7 +72,7 @@ Boss 25 9979 454 236 314 1 1000
 
 1. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/CTTAPTAH/ContraClone_SDL2.git
+git clone https://github.com/CTTAPTAH/ContraClone_SDL2.git```
 2. Откройте .sln файл в Visual Studio.
 3. Убедитесь, что установлены библиотеки: SDL2, SDL2_image, SDL2_mixer, SDL2_ttf
 4. Постройте и запустите проект (F5).
